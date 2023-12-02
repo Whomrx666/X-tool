@@ -15,6 +15,7 @@ function main() {
        apt install python
        apt install python3
        apt install python3-pip
+       pip install --upgrade pip
        pip3 install --upgrade pip
        sleep 1
        echo "
